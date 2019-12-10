@@ -34,9 +34,12 @@ Add in a new student to the database. The syntax should follow the above example
 
 ```
 SELECT *
-FROM meetups, students;
-JOIN meetup_students ON meetups.id = meetup_students.meetup_id
-JOIN students ON students.id = meetup_students.student_id;
+FROM meetups
+JOIN meetup_students
+	ON meetups.id = meetup_students.meetup_id
+JOIN students
+	ON meetup_students.student_id = students.id;
+
 ```
 2. Return only the `meetups.title` and the `students.first_name`.
 3. Next, let's run a query to `COUNT` the number of students per each meetup. Remember to use `GROUP BY`. 
