@@ -1,11 +1,14 @@
 # Intro to Data Analytics & Visualisations 
 
+- [Slide Deck from today](https://bit.ly/38nMPBo)
 
-Download [Tableau Public for free](https://public.tableau.com/en-us/s/) for data visualisation. 
+- [SQL Compiler](https://www.db-fiddle.com/)
 
-Resources to embed [Tableau Visualisations in a website](https://github.com/tableau/embedding-playbook/blob/master/pages/01_embedding_and_jsapi.md)
+- Download [Tableau Public for free](https://public.tableau.com/en-us/s/) for data visualisation. 
 
-[SQL Compiler](https://www.db-fiddle.com/)
+- Resources to embed [Tableau Visualisations in a website](https://github.com/tableau/embedding-playbook/blob/master/pages/01_embedding_and_jsapi.md)
+
+
 
 ### Challenge 1 | SQL - DB Creation & Additional Students
 1. Head to the [SQL Compiler](https://www.db-fiddle.com/) and make sure the top tab has "MySQL 5.7".
@@ -124,4 +127,4 @@ If you need any help, feel free to reach out to me at:
 [LinkedIn](https://www.linkedin.com/in/sheilaleveille/)
 [Personal Website](www.sheilaleveille.com)
 
-The [Slide Deck]() from today. 
+The [Slide Deck](https://bit.ly/38nMPBo) from today. 
